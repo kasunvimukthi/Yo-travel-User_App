@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/Top_radias_30dp_white.xml" value="0.1685" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/all_radias_30dp_transperant.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/all_radias_30dp_white.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/btn_strck_0.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/dot.xml" value="0.1735" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/gradient.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/radius20dp.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/radius30dp.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/radius30dptrancperent.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/round_border.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/top_bot_l_radias_30dp_white.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/drawable/topleft_radias_30dp_transperant.xml" value="0.154" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout-v21/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/a_d_2_invoice_card.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/a_d_category_item_card.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/a_d_item_card.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/a_d_top_item_card.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/a_d_upcoming_item_card.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_accommodation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_accomo_adapter.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_activity_adapter.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_booking.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_category_details.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_delete_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_drawer1.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_drawer2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_drawer3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_drawer4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_drawer_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_drawer_header.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_drawer_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_drawer_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_guider_location_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_guider_profile_view.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_highlights_adapter.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_image_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_includes_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_invoice_cancel1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_invoice_view.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_invoice_view_pdf.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_loading.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_package.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_password_change.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_profile_view.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_qr_code.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_slider.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_slider_finish.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_tc_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_test.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_up_coming_item_details.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activity_upload_recipt.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/activties_image_adaptor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/app_bar_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/category_details_view.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/content_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/drawer1_slider_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/fragment_activity_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/fragment_blank.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/fragment_drawer_activity3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/fragment_over_view.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/fragment_up_coming_tab.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/fragment_up_coming_tab_accomo.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/fragment_up_coming_tab_activities.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/fragment_up_coming_tab_images.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/nav_header_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/slider_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/layout/test.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/test/app/src/main/res/menu/home.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

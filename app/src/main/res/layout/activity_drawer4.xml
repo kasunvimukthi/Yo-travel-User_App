@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="56dp"
+    android:background="@color/background"
+    android:fillViewport="true"
+    android:overScrollMode="never"
+    android:scrollbarStyle="outsideInset"
+    android:scrollbars="none"
+    tools:context=".fragment.DrawerActivity3"
+    tools:ignore="SpeakableTextPresentCheck"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="1dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="50dp"
+            android:text="Guider Info"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            app:backgroundTint="#FFFFFF"
+            app:icon="@drawable/user"
+            app:iconGravity="top"
+            app:iconSize="50dp"
+            app:iconTint="@color/black"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="Guider Location"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            app:backgroundTint="#FFFFFF"
+            app:icon="@drawable/location"
+            app:iconGravity="top"
+            app:iconSize="50dp"
+            app:iconTint="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/button12"
+            app:layout_constraintTop_toTopOf="@+id/button12" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
